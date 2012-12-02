@@ -1,0 +1,5 @@
+.jhw-cache/*
+.rvmrc
+Gemfile.lock
+.DS_Store
+
